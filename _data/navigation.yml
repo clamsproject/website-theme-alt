@@ -5,7 +5,7 @@ main:
   - title: "TEAM"
     url: https://clams.ai/team
   - title: "DOCUMENTATION"
-    subfolderitems:
+    children:
     - title: QUICK START
       url: /quickstart/
     - title: MMIF
