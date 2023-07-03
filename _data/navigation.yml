@@ -5,14 +5,14 @@ main:
   - title: "TEAM"
     url: https://clams.ai/team
   - title: "DOCUMENTATION"
-    url: /documentation/
-    - title: QUICK START
+    subfolderitems:
+    - page: QUICK START
       url: /quickstart/
-    - title: MMIF
+    - page: MMIF
       url: /MMIF/
-    - title: SDK
+    - page: SDK
       url: /sdk/
-    - title: CITING CLAMS
+    - page: CITING CLAMS
       url: /citingclams/
   - title: APPLICATIONS
     url: /applications/
