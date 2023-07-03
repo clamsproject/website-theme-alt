@@ -3,16 +3,14 @@ main:
   - title: "CLAMS"
     url: https://clams.ai/
   - title: "TEAM"
-    url: https://clams.ai/team
-  - title: "DOCUMENTATION"
-    children:
-    - title: QUICK START
-      url: /quickstart/
-    - title: MMIF
-      url: /MMIF/
-    - title: SDK
-      url: /sdk/
-    - title: CITING CLAMS
-      url: /citingclams/
+    url: /team/
+  - title: QUICK START
+    url: /quickstart/
+  - title: MMIF
+    url: /MMIF/
+  - title: SDK
+    url: /sdk/
+  - title: CITING CLAMS
+    url: /citingclams/
   - title: APPLICATIONS
     url: /applications/
