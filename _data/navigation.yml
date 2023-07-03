@@ -1,12 +1,18 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "CLAMS"
+    url: https://clams.ai/
+  - title: "TEAM"
+    url: https://clams.ai/team
+  - title: "DOCUMENTATION"
+    url: /documentation/
+    - title: QUICK START
+      url: /quickstart/
+    - title: MMIF
+      url: /MMIF/
+    - title: SDK
+      url: /sdk/
+    - title: CITING CLAMS
+      url: /citingclams/
+  - title: APPLICATIONS
+    url: /applications/
